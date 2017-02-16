@@ -23,3 +23,6 @@ def run_query(query=''):
 	conn.close()                   # Cerrar la conexión
 
 	return data
+
+def funcion():
+    print "Hola"

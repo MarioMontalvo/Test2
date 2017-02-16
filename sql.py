@@ -26,3 +26,6 @@ def run_query(query=''):
 
 def funcion():
     print "Hola"
+
+def funcion_dos():
+    print "Hola"

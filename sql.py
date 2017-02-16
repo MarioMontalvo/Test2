@@ -31,6 +31,9 @@ def funcion_dos():
     print "Hola"
 
 
+def funcion_cinco():
+    print "Hola"
+
 def funcion_cuatro():
     print "Hola"
 

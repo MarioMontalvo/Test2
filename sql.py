@@ -24,12 +24,15 @@ def run_query(query=''):
 
 	return data
 
-def funcion():
+def funcion_cada():
     print "Hola"
 
 def funcion_dos():
     print "Hola"
 
+
+def funcion_cuatro():
+    print "Hola"
 
 def funcion_tres():
     print "Hola"

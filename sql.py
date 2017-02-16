@@ -29,3 +29,7 @@ def funcion():
 
 def funcion_dos():
     print "Hola"
+
+
+def funcion_tres():
+    print "Hola"
